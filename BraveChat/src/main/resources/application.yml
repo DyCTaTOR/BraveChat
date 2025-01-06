@@ -3,8 +3,8 @@ spring:
     enabled: true
   datasource:
     url: jdbc:postgresql://localhost:5432/brave_chat
-    username: postgres
-    password: password
+    username: user
+    password: user
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
