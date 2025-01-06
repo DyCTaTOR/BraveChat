@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: changeset/create-database-07.01.25.sql

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d119b73-04d1-415f-b123-576169cdc929" name="Changes" comment="" />
+    <list default="true" id="6d119b73-04d1-415f-b123-576169cdc929" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/DyCTaTOR/BraveChat.git&quot;,
-    &quot;accountId&quot;: &quot;86af1bea-7f5e-4d2b-bb0d-b55849a7de99&quot;
+    &quot;accountId&quot;: &quot;eb6c81d8-c03e-4c58-be3f-418156d97826&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -79,6 +81,9 @@
       <workItem from="1735807963674" duration="2095000" />
       <workItem from="1735811373769" duration="193000" />
       <workItem from="1735811603240" duration="80000" />
+      <workItem from="1736066387942" duration="91000" />
+      <workItem from="1736066487692" duration="10000" />
+      <workItem from="1736066508155" duration="183000" />
     </task>
     <servers />
   </component>
