@@ -11,3 +11,22 @@ spring:
       ddl-auto: validate
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    config-url: /v3/api-docs/swagger-config
+    enabled: true
+    url: /v3/api-docs
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  enable-data-rest: false
+
+server:
+  port: 8080
+
+testing:
+  app:
+    secret: dsvm3sfd2mlsfvbo4lfsdnbfs5dvdgjnbiy35fbvn971cdasxvdbfdbv
+    expirationMs: 3600000
